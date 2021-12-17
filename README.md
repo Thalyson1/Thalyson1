@@ -4,9 +4,9 @@
    •  📚 Técnico em Informática - ECITE Cristiano Cartaxo <br>
    •  🎮 Gosto de jogar nas horas vagas <br>
    •  💻 Apaixonado por tecnologia <br>
-<hr>
-
-<div style = "display: inline_block"> <br>
+   <hr>
+   
+<div style = "display: inline_block"> 
   
   [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thalyson1) 
   [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rian_ztx/) 
