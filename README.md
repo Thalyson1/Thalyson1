@@ -19,7 +19,7 @@
 
 <div style="display: inline_block">
    
-  <table>
+  <table height="200px">
     <tr>
       <td> <h2>Tecnologias que utilizo</h2> </td>
       <td align="center"><img align="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></td>
